@@ -1,0 +1,77 @@
+---
+title: "History of Psychology"
+description: |
+  Welcome to the website for *History of Psychology* HS25 ([24022-01](https://vorlesungsverzeichnis.unibas.ch/de/vorlesungsverzeichnis?id=293358))
+  
+  Instructors: [Loreen Tisdall](https://loreentisdall.github.io) and [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), University of Basel
+  
+  Last updated `r format(Sys.time(), "%a %b %d %X %Y")`
+  
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+![Psychologists love labs!](photos/lab.jpg)
+
+# Session information
+
+Sessions take place Mondays, 8.15-9.45, Chemie, Organische, Grosser Hörsaal OC. 
+Slides will be made available shortly before each session. 
+
+::: l-body
+| # | Date       | Topic                               | Instructor | Resources                     |
+|---| -----------|-------------------------------------|------------|-------------------------------|
+| 1 | 22.09.2025 | [What kind of science is psychology?](presentations/HISTPSY_session1_whatkindofscience.pdf) | Mata | [Spektrum Podcast](https://www.spektrum.de/podcast/spektrum-podcast-zwischen-forschung-und-ratgebern/2282753) |
+| 2 | 29.09.2025 | [The birth of psychology](presentations/HISTPSY_session2_birth.pdf) | Mata | [Brysbaert & Rastle (2021; 4.1-4.2)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+| 3 | 13.10.2025 | [Psychoanalysis](presentations/HISTPSY_session3_psychoanalysis.pdf) | Mata | [Brysbaert & Rastle (2021; 4.3-4.4)](https://adam.unibas.ch/goto_adam_crs_1995736.html)|
+| 4 | 20.10.2025 | [Behaviorism](presentations/HISTPSY_session4_behaviorism.pdf) | Mata |  [Brysbaert & Rastle (2021; 5.2)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+| 5 | <s>27.10.2025</s> (see email) | [Gestalt psychology](presentations/HISTPSY_session5_gestalt.pdf) | Mata | [Brysbaert & Rastle (2021; 4.2)](https://adam.unibas.ch/goto_adam_crs_1995736.html)|
+| 6 | 03.11.2025 | [Cognitive psychology](presentations/HISTPSY_session6_cognitivepsychology.pdf)  | Mata |  [Brysbaert & Rastle (2021; 5.3)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+| 7 | 10.11.2025 | [Psychology today](presentations/HISTPSY_session7_psychologytoday.pdf) | Tisdall |  [Spear (2007)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+| 8 | 17.11.2025 | [Psychotherapy research](presentations/HISTPSY_session8_psychotherapy-research.pdf) | Tisdall |  [Braakmann (2015)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+| 9 | 24.11.2025 | [Psychological testing](presentations/HISTPSY_session9_psychological-testing.pdf) | Tisdall |  [Wasserman (2012)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+|10 | 01.12.2025 | [Decision science](presentations/HISTPSY_session10_decisionscience.pdf) | Tisdall | [Newell et al. (2022)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+|11 | 08.12.2025 | [What kind of science is psychology? (revisited)](presentations/HISTPSY_session11_whatkindofscience-revisited.pdf) | Tisdall | [Ball (2012)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+|12 | 15.12.2025 | Exam (see below) | | 
+:::
+
+# What is this course about?
+
+This course offers a comprehensive introduction to the history of psychology, tracing its evolution from its philosophical origins to its development as a scientific discipline. It explores the contributions of natural and social sciences to the field and examines the emergence of various psychological schools of thought that have shaped our understanding of human mental processes and behavior from the 19th century to the present. Additionally, the course highlights the institutionalization of psychology as a science and its expanding role in diverse areas such as mental health, organizational and educational settings, and the communication of evidence and risk.
+
+# What can you expect to learn?
+
+By completing the course, you can expect to:
+
+- Understand the historical roots and evolution of various schools of thought in psychology.
+- Gain an overview of the development and key applications of psychological theory.
+- Learn about the biographies and contributions of prominent psychologists.
+
+# Exam
+
+The exam will be held on December 15th, 2025 and it will consist of multiple-choice questions covering the content of all sessions. 
+
+More information will be provided during the semester.
+
+<!--The exam will take place in different locations:-->
+
+<!-- **Last Name A–F** -->
+
+<!-- Kollegienhaus, Hörsaal 001: Students with last names starting A up to and including F -->
+
+<!-- **Last Name G–Z** -->
+
+<!-- Bernoullianum, Grösser Hörsaal 148: Students will last names starting with G to Z -->
+
+<!-- **Nachteilsausgleich** -->
+
+<!-- Students notified individually by email (Missionsstr. 64a, Seminarraum 00.001) -->
+# How should you use this website?
+
+This website is designed to help course participants get an overview of the course sessions and access the course slides. 
+
+<!-- A [FAQ](https://adam.unibas.ch/goto_adam_crs_1995736.html) forum is available on ADAM.  -->
