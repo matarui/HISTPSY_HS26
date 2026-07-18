@@ -1,7 +1,7 @@
 ---
 title: "History of Psychology"
 description: |
-  Welcome to the website for *History of Psychology* HS25 ([24022-01](https://vorlesungsverzeichnis.unibas.ch/de/vorlesungsverzeichnis?id=293358))
+  Welcome to the website for *History of Psychology* HS26 ([24022-01](https://vorlesungsverzeichnis.unibas.ch/de/vorlesungsverzeichnis?id=301649))
   
   Instructors: [Loreen Tisdall](https://loreentisdall.github.io) and [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), University of Basel
   
@@ -19,29 +19,29 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Session information
 
-Sessions take place Mondays, 8.15-9.45, Chemie, Organische, Grosser Hörsaal OC. 
+Sessions take place Tuesdays, 8.15-9.45, Kollegienhaus, Aula 033. 
 Slides will be made available shortly before each session. 
 
 ::: l-body
 | # | Date       | Topic                               | Instructor | Resources                     |
 |---| -----------|-------------------------------------|------------|-------------------------------|
-| 1 | 22.09.2025 | [What kind of science is psychology?](presentations/HISTPSY_session1_whatkindofscience.pdf) | Mata | [Spektrum Podcast](https://www.spektrum.de/podcast/spektrum-podcast-zwischen-forschung-und-ratgebern/2282753) |
-| 2 | 29.09.2025 | [The birth of psychology](presentations/HISTPSY_session2_birth.pdf) | Mata | [Brysbaert & Rastle (2021; 4.1-4.2)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-| 3 | 13.10.2025 | [Psychoanalysis](presentations/HISTPSY_session3_psychoanalysis.pdf) | Mata | [Brysbaert & Rastle (2021; 4.3-4.4)](https://adam.unibas.ch/goto_adam_crs_1995736.html)|
-| 4 | 20.10.2025 | [Behaviorism](presentations/HISTPSY_session4_behaviorism.pdf) | Mata |  [Brysbaert & Rastle (2021; 5.2)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-| 5 | <s>27.10.2025</s> (see email) | [Gestalt psychology](presentations/HISTPSY_session5_gestalt.pdf) | Mata | [Brysbaert & Rastle (2021; 4.2)](https://adam.unibas.ch/goto_adam_crs_1995736.html)|
-| 6 | 03.11.2025 | [Cognitive psychology](presentations/HISTPSY_session6_cognitivepsychology.pdf)  | Mata |  [Brysbaert & Rastle (2021; 5.3)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-| 7 | 10.11.2025 | [Psychology today](presentations/HISTPSY_session7_psychologytoday.pdf) | Tisdall |  [Spear (2007)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-| 8 | 17.11.2025 | [Psychotherapy research](presentations/HISTPSY_session8_psychotherapy-research.pdf) | Tisdall |  [Braakmann (2015)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-| 9 | 24.11.2025 | [Psychological testing](presentations/HISTPSY_session9_psychological-testing.pdf) | Tisdall |  [Wasserman (2012)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-|10 | 01.12.2025 | [Decision science](presentations/HISTPSY_session10_decisionscience.pdf) | Tisdall | [Newell et al. (2022)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-|11 | 08.12.2025 | [What kind of science is psychology? (revisited)](presentations/HISTPSY_session11_whatkindofscience-revisited.pdf) | Tisdall | [Ball (2012)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-|12 | 15.12.2025 | Exam (see below) | | 
+| 1 | 22.09.2026 | [What kind of science is psychology?](index.html) | Mata | [Spektrum Podcast](https://www.spektrum.de/podcast/spektrum-podcast-zwischen-forschung-und-ratgebern/2282753) |
+| 2 | 6.10.2026 | [The birth of psychology](index.html) | Mata | [Brysbaert & Rastle (2021; 4.1-4.2)](https://adam.unibas.ch/goto_adam_crs_301649.html) |
+| 3 | 13.10.2026 | [Psychoanalysis](index.html) | Mata | [Brysbaert & Rastle (2021; 4.3-4.4)](https://adam.unibas.ch/goto_adam_crs_301649.html)|
+| 4 | 20.10.2026 | [Behaviorism](index.html) | Mata |  [Brysbaert & Rastle (2021; 5.2)](https://adam.unibas.ch/goto_adam_crs_301649.html) |
+| 5 | 03.11.2026 | [Gestalt and Cognitive psychology](index.html) | Mata | [Brysbaert & Rastle (2021; 4.2 & 5.3)](https://adam.unibas.ch/goto_adam_crs_301649.html)|
+<!-- | 6 | 03.11.2026 | [Cognitive psychology](presentations/HISTPSY_session6_cognitivepsychology.pdf)  | Mata |  [Brysbaert & Rastle (2021; 5.3)](https://adam.unibas.ch/goto_adam_crs_1995736.html) | -->
+| 6 | 10.11.2026 | [Psychology today](index.html) | Tisdall |  [Spear (2007)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+| 7 | 17.11.2026 | [Psychotherapy research](index.html) | Tisdall |  [Braakmann (2015)](https://adam.unibas.ch/goto_adam_crs_301649.html) |
+| 8 | 24.11.2026 | [Psychological testing](index.html) | Tisdall |  [Wasserman (2012)](https://adam.unibas.ch/goto_adam_crs_301649.html) |
+| 9 | 01.12.2026 | [Decision science](index.html) | Tisdall | [Newell et al. (2022)](https://adam.unibas.ch/goto_adam_crs_301649.html) |
+|10 | 08.12.2026 | [What kind of science is psychology? (revisited)](index.html) | Tisdall | [Ball (2012)](https://adam.unibas.ch/goto_adam_crs_301649.html) |
+|11 | 15.12.2026 | Exam (see below) | | 
 :::
 
 # What is this course about?
 
-This course offers a comprehensive introduction to the history of psychology, tracing its evolution from its philosophical origins to its development as a scientific discipline. It explores the contributions of natural and social sciences to the field and examines the emergence of various psychological schools of thought that have shaped our understanding of human mental processes and behavior from the 19th century to the present. Additionally, the course highlights the institutionalization of psychology as a science and its expanding role in diverse areas such as mental health, organizational and educational settings, and the communication of evidence and risk.
+This course offers a comprehensive introduction to the history of psychology, tracing its evolution from its philosophical origins to its development as a scientific discipline. It explores the contributions of ideas from the natural and social sciences to psychology and examines the emergence of various psychological schools of thought that have shaped our understanding of human mental processes and behavior, in particular from the 19th century to the present. Additionally, the course highlights the institutionalization of psychology as a science and its expanding role in diverse areas such as mental health, organizational and educational settings, or the communication of evidence and risk.
 
 # What can you expect to learn?
 
@@ -53,7 +53,7 @@ By completing the course, you can expect to:
 
 # Exam
 
-The exam will be held on December 15th, 2025 and it will consist of multiple-choice questions covering the content of all sessions. 
+The exam will be held on December 15th, 2026 and it will consist of multiple-choice questions covering the content of all sessions. 
 
 More information will be provided during the semester.
 
