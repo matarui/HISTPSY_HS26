@@ -30,7 +30,6 @@ Slides will be made available shortly before each session.
 | 3 | 13.10.2026 | [Psychoanalysis](index.html) | Mata | [Brysbaert & Rastle (2021; 4.3-4.4)](https://adam.unibas.ch/goto_adam_crs_301649.html)|
 | 4 | 20.10.2026 | [Behaviorism](index.html) | Mata |  [Brysbaert & Rastle (2021; 5.2)](https://adam.unibas.ch/goto_adam_crs_301649.html) |
 | 5 | 03.11.2026 | [Gestalt and Cognitive psychology](index.html) | Mata | [Brysbaert & Rastle (2021; 4.2 & 5.3)](https://adam.unibas.ch/goto_adam_crs_301649.html)|
-<!-- | 6 | 03.11.2026 | [Cognitive psychology](presentations/HISTPSY_session6_cognitivepsychology.pdf)  | Mata |  [Brysbaert & Rastle (2021; 5.3)](https://adam.unibas.ch/goto_adam_crs_1995736.html) | -->
 | 6 | 10.11.2026 | [Psychology today](index.html) | Tisdall |  [Spear (2007)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
 | 7 | 17.11.2026 | [Psychotherapy research](index.html) | Tisdall |  [Braakmann (2015)](https://adam.unibas.ch/goto_adam_crs_301649.html) |
 | 8 | 24.11.2026 | [Psychological testing](index.html) | Tisdall |  [Wasserman (2012)](https://adam.unibas.ch/goto_adam_crs_301649.html) |
