@@ -20,7 +20,6 @@ knitr::opts_chunk$set(echo = FALSE)
 # Session information
 
 Sessions take place Tuesdays, 8.15-9.45, Kollegienhaus, Aula 033. 
-Slides will be made available shortly before each session. 
 
 ::: l-body
 | # | Date       | Topic                               | Instructor | Resources                     |
